@@ -5,7 +5,7 @@
 	  
 	  
 SELECT *
-FROM
+FROM 
 
 	  
 	  
